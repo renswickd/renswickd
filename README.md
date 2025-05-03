@@ -1,11 +1,9 @@
 # 💫 About Me:
-I am one of you if you are a Data Scientist / Gen AI developer, who is always exploring WHAT'S NEXT in AI.
+***I am one of you if you are a Data Scientist / Gen AI developer, who is always exploring WHAT'S NEXT in AI.***<br/>
 
-🧠 I build intelligent systems using LLMs, multi-agent frameworks, and MLOps pipelines across Azure, AWS, and modern open-source tools.
-
-📜 Certified in Azure Data Science, AWS ML Engineering, Snowflake and SAS Programming — always learning, always leveling up.
-
-🌱 Currently diving deeper into Multi Agnet systems, GraphRAG, and LLMOps — building the future, one model at a time. 
+🧠 I build intelligent systems using LLMs, multi-agent frameworks, and MLOps pipelines across Azure, AWS, and modern open-source tools.<br/>
+📜 Certified in Azure Data Science, AWS ML Engineering, Snowflake and SAS Programming — always learning, always leveling up.<br/>
+🌱 Currently diving deeper into Multi Agnet systems, GraphRAG, and LLMOps — building the future, one model at a time.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renswick-delvar-33152b1a5/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@renswick.d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renswick.delver@gmail.com) 
