@@ -42,7 +42,7 @@
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-228BE6?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge)
 ![Model Serving](https://img.shields.io/badge/Model%20Serving-4B0082?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP%20Pipeline-0052CC?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0052CC?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
