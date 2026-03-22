@@ -128,10 +128,10 @@
 
 <h1 align="center">📊 GitHub Stats</h1>
 
-<!-- <p align="center"> 
+<p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=renswickd&theme=holi&hide_border=false&include_all_commits=false&count_private=false" height="180" width="500"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renswickd&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" width="500"/> 
-</p>  -->
+</p>
 
 <p align="center"> 
     <img src="https://nirzak-streak-stats.vercel.app/?user=renswickd&theme=holi&hide_border=false" width="650"/> 
