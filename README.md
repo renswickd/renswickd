@@ -124,7 +124,7 @@
 ![OCR](https://img.shields.io/badge/OCR-FF9900?style=for-the-badge)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-800080?style=for-the-badge)
 
----
+<!-- ---
 
 <h1 align="center">📊 GitHub Stats</h1>
 
@@ -135,4 +135,4 @@
 
 <p align="center"> 
     <img src="https://nirzak-streak-stats.vercel.app/?user=renswickd&theme=holi&hide_border=false" width="650"/> 
-</p>
+</p> -->
